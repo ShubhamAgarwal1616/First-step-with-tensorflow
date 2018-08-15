@@ -1,1 +1,2 @@
-# First-step-with-tensorflow
+## First-step-with-tensorflow
+Google crash course programming handouts
